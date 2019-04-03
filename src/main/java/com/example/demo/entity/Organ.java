@@ -13,4 +13,6 @@ public class Organ {
     private Long id;
 
     private String name;
+
+    private Long pid;
 }
